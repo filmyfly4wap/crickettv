@@ -6,31 +6,20 @@
       "link": "http://cricketlive.wapact.com/page-india-vs-afganistan.html",
       "startTime": "07:00:00 PM 13-09-2026",
       "durationHours": 5
-  }
-
-  ,
+  },
 
   {
   "img": "https://i.postimg.cc/dV8kbG9K/ind-vs-sl.png",
     "link": "http://cricketlive.wapact.com/page-women-asia-cup-final.html",
     "startTime": "7:30:00 PM 13-09-2026",
     "durationHours": 6
-}
-
-,
-
-
-
-
-
+},
 
 {
 "img": "https://raw.githubusercontent.com/filmyfly4wap/icon/main/audio.png",
   "link": "http://cricketlive.wapact.com/page-music.html"
 
-}
-
-,
+},
 
 {
 
@@ -41,68 +30,70 @@
 
 ],
 
-
-
-
-"categories": [ 
-  {
-    "id": "INDvsWI", 
+"categories": [{
+    "id": "INDvsWI",
     "title": "India vs West Indies",
-    "streams": [
-        {
-          "language": "Hindi",
-          "label": "Hindi Channel",
-"stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/index.mpd",
-"cookie": "__hdnea__=st=1791296458~exp=1791318058~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=7d0d1a9de0b2160ced25f2368231439743b92a14640e6a3863c5f2c446f91dad",
-"cookie_expire": 1791318058,
-"cookie_expire_ist": "07 Oct 2026, 01:50:58 AM IST",
-"key_id": null,
-"key": null,
-       "Keys": [
-"a1ce6b9514f35174bda80ddd425bfd88:5c5e158724eced92f92ca8286fb28fd9",
-"dd2fa604afc45e528f8a2283bf3cb628:bf01e6e8ff74797fb5215fead779e8b9",
-"209975f6753d5de1ac26d604dace5313:1c54093eff75aeeccd30ebbc53c0e5a3",
-"7bdccdb3dd015c37a0c3bd70675c8e4c:6f1b59376090d1f7ce33cbd264e87c36",
-"11073b8f426e5092a2effada3bfaf721:5d1c59a8052956bd056810f260161e5f"
-]
-        },
-        
-        {
-          "language": "English",
-          "label": "English Channel",
-"stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/WDVLive/index.mpd",
-"cookie": "__hdnea__=st=1791298167~exp=1791319767~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=e1199b526e743d2304918d584c623064ee56d0b5632dd0b464f06e7b16390e9f",
-"cookie_expire": 1791319767,
-"cookie_expire_ist": "07 Oct 2026, 02:19:27 AM IST",
-"key_id": null,
-"key": null,
-"keys":[
-  "45825561f4ef516691a9e16d1d35dd1d:3951fe7fbf4b0b33e6246fc401f76797",
-  "bf95222d9be85d85a91281e796e99481:bc932276031b3e63758cf67b147c3557",
-  "f217e9fe133e5b948c323abef1e39b47:63640dc4430d14003def0c97a2dbab4d",
-  "eda3132244745c10920b01536bc8a75b:2b5f8bdba279032943a040078bb22b35",
-  "06dd6287c4b956419d15d6c8e513aeed:a82d6b850b5c281c0054fc6d55e1c6ba"
-]
-        }
+    "streams": [{
+        "language": "Hindi",
+        "label": "Hindi Channel",
+        "stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/index.mpd",
+      "cookie": "__hdnea__=st=1791339672~exp=1791361272~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=53f3c46f0464455c3149d22c4365a675708542292004435919f1d4be1a3411ea",
+      "cookie_expire": 1791361272,
+      "cookie_expire_ist": "07 Oct 2026, 01:51:12 PM IST",
+      "key_id": null,
+      "key": null,
+      "sonuxs": [
+        "a1ce6b9514f35174bda80ddd425bfd88:5c5e158724eced92f92ca8286fb28fd9",
+        "dd2fa604afc45e528f8a2283bf3cb628:bf01e6e8ff74797fb5215fead779e8b9",
+        "209975f6753d5de1ac26d604dace5313:1c54093eff75aeeccd30ebbc53c0e5a3",
+        "7bdccdb3dd015c37a0c3bd70675c8e4c:6f1b59376090d1f7ce33cbd264e87c36",
+        "11073b8f426e5092a2effada3bfaf721:5d1c59a8052956bd056810f260161e5f"
       ]
+      },
+      
+      {
+        "language": "English",
+        "label": "English Channel",
+        "stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/WDVLive/index.mpd",
+      "cookie": "__hdnea__=st=1791319779~exp=1791341379~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=8f8bfcf4d46bf6fcd40be1bb59374483d3bcb11b6da89a955d547a52530aa513",
+      "cookie_expire": 1791341379,
+      "cookie_expire_ist": "07 Oct 2026, 08:19:39 AM IST",
+      "key_id": null,
+      "key": null,
+      "sonuxs": [
+        "45825561f4ef516691a9e16d1d35dd1d:3951fe7fbf4b0b33e6246fc401f76797",
+        "bf95222d9be85d85a91281e796e99481:bc932276031b3e63758cf67b147c3557",
+        "f217e9fe133e5b948c323abef1e39b47:63640dc4430d14003def0c97a2dbab4d",
+        "eda3132244745c10920b01536bc8a75b:2b5f8bdba279032943a040078bb22b35",
+        "06dd6287c4b956419d15d6c8e513aeed:a82d6b850b5c281c0054fc6d55e1c6ba"
+      ]
+      },
+      {
+        "language": "Hindi",
+        "label": "Hindi Channel",
+        "stream_url": "https://filmyfly4wap.github.io/play/?id=H1HD"
+      }
+    ]
   },
   
   {
-    "id": "INDvsSL", 
+    "id": "INDvsSL",
     "title": "India vs Sri Lanka"
   },
-
+  
   {
-    "id": "INDvsZIM", 
+    "id": "INDvsZIM",
     "title": "India vs Zimbabwe"
   },
   
   {
-    "id": "INDvsAUS", 
+    "id": "INDvsAUS",
     "title": "India vs Australia"
-}
-
+  }
+  
 ],
+
+
 
 "matches": [ 
   {
