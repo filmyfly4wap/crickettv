@@ -37,12 +37,12 @@
         "language": "Hindi",
         "label": "Hindi Channel",
         "stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/index.mpd",
-      "cookie": "__hdnea__=st=1791339672~exp=1791361272~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=53f3c46f0464455c3149d22c4365a675708542292004435919f1d4be1a3411ea",
-      "cookie_expire": 1791361272,
-      "cookie_expire_ist": "07 Oct 2026, 01:51:12 PM IST",
+      "cookie": "__hdnea__=st=1791382929~exp=1791404529~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=6faf6ed8b95feec52ca3ab23eb94e29ca5beed706d6aa01639272280659de750",
+      "cookie_expire": 1791404529,
+      "cookie_expire_ist": "08 Oct 2026, 01:52:09 AM IST",
       "key_id": null,
       "key": null,
-      "keys": [
+      "sonuxs": [
         "a1ce6b9514f35174bda80ddd425bfd88:5c5e158724eced92f92ca8286fb28fd9",
         "dd2fa604afc45e528f8a2283bf3cb628:bf01e6e8ff74797fb5215fead779e8b9",
         "209975f6753d5de1ac26d604dace5313:1c54093eff75aeeccd30ebbc53c0e5a3",
@@ -55,12 +55,12 @@
         "language": "English",
         "label": "English Channel",
         "stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/WDVLive/index.mpd",
-      "cookie": "__hdnea__=st=1791319779~exp=1791341379~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=8f8bfcf4d46bf6fcd40be1bb59374483d3bcb11b6da89a955d547a52530aa513",
-      "cookie_expire": 1791341379,
-      "cookie_expire_ist": "07 Oct 2026, 08:19:39 AM IST",
+      "cookie": "__hdnea__=st=1791380033~exp=1791401633~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=a133ec0eac2dd8b58b56a9f71098f1f59660e172c5894a3914a5c76f582c53e4",
+      "cookie_expire": 1791401633,
+      "cookie_expire_ist": "08 Oct 2026, 01:03:53 AM IST",
       "key_id": null,
       "key": null,
-      "keys": [
+      "sonuxs": [
         "45825561f4ef516691a9e16d1d35dd1d:3951fe7fbf4b0b33e6246fc401f76797",
         "bf95222d9be85d85a91281e796e99481:bc932276031b3e63758cf67b147c3557",
         "f217e9fe133e5b948c323abef1e39b47:63640dc4430d14003def0c97a2dbab4d",
