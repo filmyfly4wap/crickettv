@@ -69,7 +69,7 @@
           </a>
         </li>
         <li>
-          <a href="teams-condition.html" class="cnav-item-link">
+          <a href="teams&condition.html" class="cnav-item-link">
             <svg class="terms-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
               <path d="M13 4H43L54 15V55C54 58 52 60 49 60H13C10 60 8 58 8 55V9C8 6 10 4 13 4Z" fill="#2962FF"/>
               <path d="M43 4V15H54" fill="#1D4ED8"/>
