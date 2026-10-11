@@ -2,10 +2,10 @@
   "name": "Live Matches",
   "slider": [
     {
-      "img": "https://i.postimg.cc/50k6BgfJ/ind-vs-afg.png",
-      "link": "http://cricketlive.wapact.com/page-india-vs-afganistan.html",
-      "startTime": "07:00:00 PM 13-09-2026",
-      "durationHours": 5
+      "img": "https://i.postimg.cc/sxt1HtgG/ind-vs-wi.png",
+      "link": "india-vs-west-indies.html",
+      "startTime": "06:00:00 PM 11-10-2026",
+      "durationHours": 6
     },
     {
       "img": "https://i.postimg.cc/dV8kbG9K/ind-vs-sl.png",
@@ -132,9 +132,9 @@
       "team_1": "India",
       "team_2": "West Indies",
       "status": "UPCOMING",
-      "startTime": "07:00:00 PM 11-10-2026",
-      "durationHours": 5,
-      "button": "http://cricketlive.wapact.com/page-india-vs-west-indies.html"
+      "startTime": "06:00:00 PM 11-10-2026",
+      "durationHours": 6,
+      "button": "india-vs-west-indies.html"
     },
     {
       "match_id": 25,
@@ -148,7 +148,7 @@
       "status": "UPCOMING",
       "startTime": "07:00:00 PM 14-10-2026",
       "durationHours": 5,
-      "button": "http://cricketlive.wapact.com/page-india-vs-west-indies.html"
+      "button": "india-vs-west-indies.html"
     },
     {
       "match_id": 26,
@@ -162,7 +162,7 @@
       "status": "UPCOMING",
       "startTime": "07:00:00 PM 17-10-2026",
       "durationHours": 5,
-      "button": "http://cricketlive.wapact.com/page-india-vs-west-indies.html"
+      "button": "india-vs-west-indies.html"
     },
     {
       "match_id": 27,
