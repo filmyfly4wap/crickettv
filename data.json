@@ -27,7 +27,7 @@
   "channels": [
     {
       "id": "hindi",
-      "stream": "https://filmyfly4wap.github.io/play/?id=H1HD",
+      "stream": "https://crickettv.pages.dev/play?id=H1HD",
       "name": "India vs West Indies",
       "logo": "https://i.postimg.cc/Z5WG6Tvx/hindi1.png",
       "category": "Cricket",
@@ -36,7 +36,7 @@
     },
     {
       "id": "English",
-      "stream": "https://filmyfly4wap.github.io/play/?id=E1HD",
+      "stream": "https://crickettv.pages.dev/play?id=E1HD",
       "name": "India vs West Indies",
       "logo": "https://i.postimg.cc/YCTJ3JQ3/english1.png",
       "category": "Cricket",
@@ -45,7 +45,7 @@
     },
     {
       "id": "Tamil",
-      "stream": "https://filmyfly4wap.github.io/play/?id=S2HD",
+      "stream": "https://crickettv.pages.dev/play?id=S2HD",
       "name": "India vs West Indies",
       "logo": "https://i.postimg.cc/YCTJ3JQ3/english1.png",
       "category": "Cricket",
@@ -54,7 +54,7 @@
     },
     {
       "id": "Telugu",
-      "stream": "https://filmyfly4wap.github.io/play/?id=TE2HD",
+      "stream": "https://crickettv.pages.dev/play?id=TE2HD",
       "name": "India vs West Indies",
       "logo": "https://i.postimg.cc/YCTJ3JQ3/english1.png",
       "category": "Cricket",
@@ -63,7 +63,7 @@
     },
     {
       "id": "Kannada",
-      "stream": "https://filmyfly4wap.github.io/play/?id=KA2SD",
+      "stream": "https://crickettv.pages.dev/play?id=KA2SD",
       "name": "India vs West Indies",
       "logo": "https://i.postimg.cc/YCTJ3JQ3/english1.png",
       "category": "Cricket",
