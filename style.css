@@ -622,15 +622,10 @@
     /* CRICBUZZ LIVE SCORES TRACK */
     .match-slider {
       width: 100%;
-      background: #111827;
-      border-radius: 14px;
-      border: 1px solid #1f293d;
-      color: #fff;
-      padding: 0 10px;
       position: relative;
       display: flex;
       align-items: center;
-      margin-bottom: 20px;
+      margin-bottom: 10px;
     }
     .match-track {
       display: flex;
@@ -1328,3 +1323,4 @@
       .footer-distributed { padding: 30px 14px 20px; }
       .brand-overlay-logo img { height: 36px; width: 36px; }
     }
+  
