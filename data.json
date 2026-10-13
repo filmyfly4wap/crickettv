@@ -2,9 +2,9 @@
   "name": "Live Matches",
   "slider": [
     {
-      "img": "https://i.postimg.cc/sxt1HtgG/ind-vs-wi.png",
+      "img": "https://i.postimg.cc/XJLW0QBR/ind-vs-wi.png",
       "link": "india-vs-west-indies.html",
-      "startTime": "06:00:00 PM 11-10-2026",
+      "startTime": "06:00:00 PM 14-10-2026",
       "durationHours": 6
     },
     {
@@ -27,7 +27,7 @@
   "channels": [
     {
       "id": "hindi",
-      "stream": "https://crickettv.pages.dev/play?id=H1HD",
+      "stream": "https://crickettv.pages.dev/vishuplaymax?id=H1HD",
       "name": "India vs West Indies",
       "logo": "https://i.postimg.cc/Z5WG6Tvx/hindi1.png",
       "category": "Cricket",
@@ -36,7 +36,7 @@
     },
     {
       "id": "English",
-      "stream": "https://crickettv.pages.dev/play?id=E1HD",
+      "stream": "https://crickettv.pages.dev/vishuplaymax?id=E1HD",
       "name": "India vs West Indies",
       "logo": "https://i.postimg.cc/YCTJ3JQ3/english1.png",
       "category": "Cricket",
@@ -45,7 +45,7 @@
     },
     {
       "id": "Tamil",
-      "stream": "https://crickettv.pages.dev/play?id=S2HD",
+      "stream": "https://crickettv.pages.dev/vishuplaymax?id=S2HD",
       "name": "India vs West Indies",
       "logo": "https://i.postimg.cc/YCTJ3JQ3/english1.png",
       "category": "Cricket",
@@ -54,7 +54,7 @@
     },
     {
       "id": "Telugu",
-      "stream": "https://crickettv.pages.dev/play?id=TE2HD",
+      "stream": "https://crickettv.pages.dev/vishuplaymax?id=TE2HD",
       "name": "India vs West Indies",
       "logo": "https://i.postimg.cc/YCTJ3JQ3/english1.png",
       "category": "Cricket",
@@ -63,7 +63,7 @@
     },
     {
       "id": "Kannada",
-      "stream": "https://crickettv.pages.dev/play?id=KA2SD",
+      "stream": "https://crickettv.pages.dev/vishuplaymax?id=KA2SD",
       "name": "India vs West Indies",
       "logo": "https://i.postimg.cc/YCTJ3JQ3/english1.png",
       "category": "Cricket",
@@ -146,8 +146,8 @@
       "team_1": "India",
       "team_2": "West Indies",
       "status": "UPCOMING",
-      "startTime": "07:00:00 PM 14-10-2026",
-      "durationHours": 5,
+      "startTime": "06:00:00 PM 14-10-2026",
+      "durationHours": 6,
       "button": "india-vs-west-indies.html"
     },
     {
@@ -160,7 +160,7 @@
       "team_1": "India",
       "team_2": "West Indies",
       "status": "UPCOMING",
-      "startTime": "07:00:00 PM 17-10-2026",
+      "startTime": "06:00:00 PM 17-10-2026",
       "durationHours": 5,
       "button": "india-vs-west-indies.html"
     },
