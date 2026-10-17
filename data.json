@@ -28,7 +28,7 @@
     {
       "id": "hindi",
       "stream": "https://crickettv.pages.dev/vishuplaymax?id=H1HD",
-      "name": "India vs West Indies",
+      "name": "India vs Newzealand",
       "logo": "https://i.postimg.cc/Z5WG6Tvx/hindi1.png",
       "category": "Cricket",
       "language": "Hindi",
@@ -37,7 +37,7 @@
     {
       "id": "English",
       "stream": "https://crickettv.pages.dev/vishuplaymax?id=E1HD",
-      "name": "India vs West Indies",
+      "name": "India vs Newzealand",
       "logo": "https://i.postimg.cc/YCTJ3JQ3/english1.png",
       "category": "Cricket",
       "language": "English",
@@ -46,7 +46,7 @@
     {
       "id": "Tamil",
       "stream": "https://crickettv.pages.dev/vishuplaymax?id=S2HD",
-      "name": "India vs West Indies",
+      "name": "India vs Newzealand",
       "logo": "https://i.postimg.cc/YCTJ3JQ3/english1.png",
       "category": "Cricket",
       "language": "Tamil",
@@ -55,7 +55,7 @@
     {
       "id": "Telugu",
       "stream": "https://crickettv.pages.dev/vishuplaymax?id=TE2HD",
-      "name": "India vs West Indies",
+      "name": "India vs Newzealand",
       "logo": "https://i.postimg.cc/YCTJ3JQ3/english1.png",
       "category": "Cricket",
       "language": "Telugu",
@@ -64,7 +64,7 @@
     {
       "id": "Kannada",
       "stream": "https://crickettv.pages.dev/vishuplaymax?id=KA2SD",
-      "name": "India vs West Indies",
+      "name": "India vs Newzealand",
       "logo": "https://i.postimg.cc/YCTJ3JQ3/english1.png",
       "category": "Cricket",
       "language": "Kannada",
@@ -72,10 +72,7 @@
     }
   ],
   "categories": [
-    {
-      "id": "INDvsWI",
-      "title": "India vs West Indies"
-    },
+    
     {
       "id": "INDvsNZ",
       "title": "India vs New Zealand"
@@ -95,78 +92,8 @@
   ],
   "matches": [
     {
-      "match_id": 22,
-      "share": "India-vs-West-Indies",
-      "category": "INDvsWI",
-      "title": "1st T20I • Lucknow, Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium",
-      "src": "https://flagcdn.com/in.svg",
-      "src_2": "https://raw.githubusercontent.com/filmyfly4wap/icon/main/wi.png",
-      "team_1": "India",
-      "team_2": "West Indies",
-      "status": "UPCOMING",
-      "startTime": "07:00:00 PM 06-10-2026",
-      "durationHours": 5,
-      "button": "http://cricketlive.wapact.com/page-india-vs-west-indies.html"
-    },
-    {
-      "match_id": 23,
-      "share": "India-vs-West-Indies",
-      "category": "INDvsWI",
-      "title": "2nd T20I • Ranchi, JSCA International Stadium Complex",
-      "src": "https://flagcdn.com/in.svg",
-      "src_2": "https://raw.githubusercontent.com/filmyfly4wap/icon/main/wi.png",
-      "team_1": "India",
-      "team_2": "West Indies",
-      "status": "UPCOMING",
-      "startTime": "12:00:00 PM 11-10-2026",
-      "durationHours": 1,
-      "button": "india-vs-west-indies.html"
-    },
-    {
-      "match_id": 24,
-      "share": "India-vs-West-Indies",
-      "category": "INDvsWI",
-      "title": "3rd T20I • Indore, Holkar Stadium",
-      "src": "https://flagcdn.com/in.svg",
-      "src_2": "https://raw.githubusercontent.com/filmyfly4wap/icon/main/wi.png",
-      "team_1": "India",
-      "team_2": "West Indies",
-      "status": "UPCOMING",
-      "startTime": "09:00:00 AM 12-10-2026",
-      "durationHours": 2,
-      "button": "india-vs-west-indies.html"
-    },
-    {
-      "match_id": 25,
-      "share": "India-vs-West-Indies",
-      "category": "INDvsWI",
-      "title": "4th T20I • Hyderabad, Rajiv Gandhi International Stadium",
-      "src": "https://flagcdn.com/in.svg",
-      "src_2": "https://raw.githubusercontent.com/filmyfly4wap/icon/main/wi.png",
-      "team_1": "India",
-      "team_2": "West Indies",
-      "status": "UPCOMING",
-      "startTime": "06:00:00 PM 14-10-2026",
-      "durationHours": 6,
-      "button": "india-vs-west-indies.html"
-    },
-    {
-      "match_id": 26,
-      "share": "India-vs-West-Indies",
-      "category": "INDvsWI",
-      "title": "5th T20I • Bengaluru, M.Chinnaswamy Stadium",
-      "src": "https://flagcdn.com/in.svg",
-      "src_2": "https://raw.githubusercontent.com/filmyfly4wap/icon/main/wi.png",
-      "team_1": "India",
-      "team_2": "West Indies",
-      "status": "UPCOMING",
-      "startTime": "06:00:00 PM 17-10-2026",
-      "durationHours": 5,
-      "button": "india-vs-west-indies.html"
-    },
-    {
       "match_id": 27,
-      "share": "India-vs-New-Zealand",
+      "share": "India-vs-newzealand",
       "category": "INDvsNZ",
       "title": "1st T20I • Christchurch, Hagley Oval",
       "src": "https://flagcdn.com/in.svg",
@@ -176,11 +103,11 @@
       "status": "UPCOMING",
       "startTime": "12:30:00 PM 22-10-2026",
       "durationHours": 5,
-      "button": "india-vs-new-zealand.html"
+      "button": "India-vs-newzealand.html"
     },
     {
       "match_id": 28,
-      "share": "India-vs-New-Zealand",
+      "share": "India-vs-newzealand",
       "category": "INDvsNZ",
       "title": "2nd T20I • Christchurch, Hagley Oval",
       "src": "https://flagcdn.com/in.svg",
@@ -190,7 +117,7 @@
       "status": "UPCOMING",
       "startTime": "12:30:00 PM 24-10-2026",
       "durationHours": 5,
-      "button": "india-vs-new-zealand.html"
+      "button": "India-vs-newzealand.html"
     },
     {
       "match_id": 29,
@@ -204,7 +131,7 @@
       "status": "UPCOMING",
       "startTime": "12:30:00 PM 27-10-2026",
       "durationHours": 5,
-      "button": "india-vs-new-zealand.html"
+      "button": "India-vs-newzealand.html"
     },
     {
       "match_id": 30,
@@ -218,7 +145,7 @@
       "status": "UPCOMING",
       "startTime": "12:30:00 PM 30-10-2026",
       "durationHours": 5,
-      "button": "india-vs-new-zealand.html"
+      "button": "India-vs-newzealand.html"
     },
     {
       "match_id": 31,
@@ -232,7 +159,7 @@
       "status": "UPCOMING",
       "startTime": "12:30:00 PM 01-11-2026",
       "durationHours": 5,
-      "button": "india-vs-new-zealand.html"
+      "button": "India-vs-newzealand.html"
     },
     {
       "match_id": 32,
@@ -246,7 +173,7 @@
       "status": "UPCOMING",
       "startTime": "07:30:00 AM 04-11-2026",
       "durationHours": 8,
-      "button": "india-vs-new-zealand.html"
+      "button": "India-vs-newzealand.html"
     },
     {
       "match_id": 33,
@@ -260,7 +187,7 @@
       "status": "UPCOMING",
       "startTime": "07:30:00 AM 07-11-2026",
       "durationHours": 8,
-      "button": "india-vs-new-zealand.html"
+      "button": "India-vs-newzealand.html"
     },
     {
       "match_id": 34,
@@ -274,7 +201,7 @@
       "status": "UPCOMING",
       "startTime": "07:30:00 AM 10-11-2026",
       "durationHours": 8,
-      "button": "india-vs-new-zealand.html"
+      "button": "India-vs-newzealand.html"
     },
     {
       "match_id": 35,
@@ -288,7 +215,7 @@
       "status": "UPCOMING",
       "startTime": "07:30:00 AM 13-11-2026",
       "durationHours": 8,
-      "button": "india-vs-new-zealand.html"
+      "button": "India-vs-newzealand.html"
     },
     {
       "match_id": 36,
@@ -302,7 +229,7 @@
       "status": "UPCOMING",
       "startTime": "07:30:00 AM 15-11-2026",
       "durationHours": 8,
-      "button": "india-vs-new-zealand.html"
+      "button": "India-vs-newzealand.html"
     },
     {
       "match_id": 37,
@@ -316,7 +243,7 @@
       "status": "UPCOMING",
       "startTime": "07:30:00 AM 19-11-2026",
       "durationHours": 8,
-      "button": "india-vs-new-zealand.html"
+      "button": "India-vs-newzealand.html"
     },
     {
       "match_id": 38,
@@ -330,7 +257,7 @@
       "status": "UPCOMING",
       "startTime": "03:30:00 AM 27-11-2026",
       "durationHours": 8,
-      "button": "india-vs-new-zealand.html"
+      "button": "India-vs-newzealand.html"
     },
     {
       "match_id": 39,
