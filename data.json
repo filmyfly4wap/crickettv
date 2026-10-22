@@ -2,10 +2,10 @@
   "name": "Live Matches",
   "slider": [
     {
-      "img": "https://i.postimg.cc/XJLW0QBR/ind-vs-wi.png",
-      "link": "india-vs-west-indies.html",
-      "startTime": "06:00:00 PM 14-10-2026",
-      "durationHours": 6
+      "img": "https://i.postimg.cc/BZw1sm20/ind-vs-nz.jpg",
+      "link": "India-vs-newzealand.html",
+      "startTime": "12:00:00 PM 22-10-2026",
+      "durationHours": 5
     },
     {
       "img": "https://i.postimg.cc/dV8kbG9K/ind-vs-sl.png",
@@ -101,7 +101,7 @@
       "team_1": "India",
       "team_2": "New Zealand",
       "status": "UPCOMING",
-      "startTime": "12:30:00 PM 22-10-2026",
+      "startTime": "12:00:00 PM 22-10-2026",
       "durationHours": 5,
       "button": "India-vs-newzealand.html"
     },
