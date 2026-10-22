@@ -27,7 +27,7 @@
   "channels": [
     {
       "id": "hindi",
-      "stream": "https://crickettv.pages.dev/vishuplaymax?id=H1HD",
+      "stream": "https://crickettv.pages.dev/vishuplaymax?id=STEN3",
       "name": "India vs Newzealand",
       "logo": "https://i.postimg.cc/Z5WG6Tvx/hindi1.png",
       "category": "Cricket",
@@ -36,7 +36,7 @@
     },
     {
       "id": "English",
-      "stream": "https://crickettv.pages.dev/vishuplaymax?id=E1HD",
+      "stream": "https://crickettv.pages.dev/vishuplaymax?id=STEN5",
       "name": "India vs Newzealand",
       "logo": "https://i.postimg.cc/YCTJ3JQ3/english1.png",
       "category": "Cricket",
@@ -45,7 +45,7 @@
     },
     {
       "id": "Tamil",
-      "stream": "https://crickettv.pages.dev/vishuplaymax?id=S2HD",
+      "stream": "https://crickettv.pages.dev/vishuplaymax?id=STENT",
       "name": "India vs Newzealand",
       "logo": "https://i.postimg.cc/YCTJ3JQ3/english1.png",
       "category": "Cricket",
@@ -54,7 +54,7 @@
     },
     {
       "id": "Telugu",
-      "stream": "https://crickettv.pages.dev/vishuplaymax?id=TE2HD",
+      "stream": "https://crickettv.pages.dev/vishuplaymax?id=STENTU",
       "name": "India vs Newzealand",
       "logo": "https://i.postimg.cc/YCTJ3JQ3/english1.png",
       "category": "Cricket",
