@@ -78,6 +78,10 @@
       "title": "India vs New Zealand"
     },
     {
+      "id": "U19",
+      "title": "ACC Men's U19 Asia Cup"
+    },
+    {
       "id": "INDvsSL",
       "title": "India vs Sri Lanka"
     },
@@ -92,18 +96,18 @@
   ],
   "matches": [
     {
-      "match_id": 27,
-      "share": "India-vs-newzealand",
-      "category": "INDvsNZ",
-      "title": "1st T20I • Christchurch, Hagley Oval",
+      "match_id": 15,
+      "share": "india-vs-pakistan",
+      "category": "U19",
+      "title": "INDU19 vs PAKU19, Final, ACC Men's U19 Asia Cup 2026",
       "src": "https://flagcdn.com/in.svg",
-      "src_2": "https://flagcdn.com/nz.svg",
+      "src_2": "https://flagcdn.com/pk.svg",
       "team_1": "India",
-      "team_2": "New Zealand",
+      "team_2": "Pakistan",
       "status": "UPCOMING",
-      "startTime": "12:00:00 PM 22-10-2026",
-      "durationHours": 5,
-      "button": "India-vs-newzealand.html"
+      "startTime": "10:00:00 AM 14-10-2026",
+      "durationHours": 8,
+      "button": "India-vs-pakistan.html"
     },
     {
       "match_id": 28,
